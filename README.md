@@ -1,25 +1,30 @@
 # Power BI Finance Dashboards
 
-This repository contains several Power BI dashboards focused on financial analytics.
+This repository contains Power BI dashboards focused on financial analytics, portfolio performance, and macroeconomic analysis.
 
-Projects include:
+The goal of these dashboards is to demonstrate how financial data can be transformed into actionable insights using Power BI.
 
-1. Portfolio Analytics Dashboard
-   - portfolio performance
-   - volatility analysis
-   - drawdowns
+## Projects
 
-2. Corporate Finance Dashboard
-   - revenue growth
-   - EBITDA margin
-   - cost analysis
+### 1. Portfolio Analytics Dashboard
+- portfolio performance
+- volatility analysis
+- drawdowns
+- asset allocation
 
-3. Macro Economic Dashboard
-   - inflation
-   - interest rates
-   - GDP trends
+### 2. Corporate Finance Dashboard
+- revenue growth
+- EBITDA margin
+- cost analysis
+- profit margins
 
-Tools used:
-- Power BI
+### 3. Macro Markets Dashboard
+- inflation trends
+- interest rates
+- GDP growth
+- market index analysis
+
+## Tools Used
+- Microsoft Power BI
 - DAX
 - Financial datasets
