@@ -19,7 +19,7 @@ Key features:
 
 ---
 
-### 2. 🏢 Corporate Finance Dashboard
+### 2. Corporate Finance Analysis Dashboard
 Financial performance analysis of a company.
 
 Key features:
